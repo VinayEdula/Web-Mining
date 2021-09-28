@@ -1,0 +1,1 @@
+Web mining is the method of utilizing data mining techniques and algorithms to extract useful information.
